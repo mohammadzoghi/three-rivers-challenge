@@ -30,4 +30,3 @@ The two important services have a little API doc created by Swagger that is publ
 > discuss them. This kind of interview is really fun. I know I will 
 > enjoy it.
 
-
