@@ -25,7 +25,7 @@ Balance Service does pretty much the same for balance updates. The major differe
 The two important services have a little API doc created by Swagger that is published on /api-docs once you run the service. And they are created by Spring Boot, hence the only strict requirement is met. (I would have done the same even if it was not required :D )
 
 > There are lots of details in this project that I tried to take care of.
-> Other than the decisions I was forced to take I have strong support
+> Other than the decisions I was forced to make I have strong support
 > of other major approaches that I opted for. I hope I get the chance to 
 > discuss them. This kind of interview is really fun. I know I will 
 > enjoy it.
