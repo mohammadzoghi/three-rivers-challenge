@@ -5,9 +5,9 @@ I enjoyed doing this project and I learned quite a lot on the way. I hope I have
 
 - This has been done on my personal laptop which is very old :(
 - Many technologies don't work on my laptop or at least their new versions don't. To list a few:
--- Docker
--- Confluent Framework
--- Latest versions of almost any Database, Database Client ...
+  * Docker
+  * Confluent Framework
+  * Latest versions of almost any Database, Database Client ...
 - Unfortunately, I was forced to make decisions that were not my first choice. Here are the top sacrifices I had to make:
 
 | Subject | First Choice | Alternate | 
