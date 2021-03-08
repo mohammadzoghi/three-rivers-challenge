@@ -1,9 +1,0 @@
-/Users/mohammad/eclipse-workspace/challenge/event-simulator/src/main/java/com/threerivers/challenge/eventsimulator/EventSimulatorApplication.java
-/Users/mohammad/eclipse-workspace/challenge/event-simulator/src/main/java/com/threerivers/challenge/eventsimulator/producer/ProducerUtil.java
-/Users/mohammad/eclipse-workspace/challenge/event-simulator/src/main/java/com/threerivers/challenge/eventsimulator/model/TransactionType.java
-/Users/mohammad/eclipse-workspace/challenge/event-simulator/src/main/java/com/threerivers/challenge/eventsimulator/producer/TransactionProducer.java
-/Users/mohammad/eclipse-workspace/challenge/event-simulator/src/main/java/com/threerivers/challenge/eventsimulator/producer/UpdateProducer.java
-/Users/mohammad/eclipse-workspace/challenge/event-simulator/src/main/java/com/threerivers/challenge/eventsimulator/config/KafkaProduceConfig.java
-/Users/mohammad/eclipse-workspace/challenge/event-simulator/src/main/java/com/threerivers/challenge/eventsimulator/model/Transaction.java
-/Users/mohammad/eclipse-workspace/challenge/event-simulator/src/main/java/com/threerivers/challenge/eventsimulator/model/Update.java
-/Users/mohammad/eclipse-workspace/challenge/event-simulator/src/main/java/com/threerivers/challenge/eventsimulator/sender/KafkaSender.java

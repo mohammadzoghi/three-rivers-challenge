@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.threerivers.challenge.transactionservice.service.TransactionInquiryServiceTest
--------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.232 s - in com.threerivers.challenge.transactionservice.service.TransactionInquiryServiceTest
